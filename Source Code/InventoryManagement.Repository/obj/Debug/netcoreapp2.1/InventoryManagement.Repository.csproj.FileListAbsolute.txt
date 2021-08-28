@@ -1,0 +1,56 @@
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.deps.json
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.dll
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.pdb
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Data.dll
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.dll
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Data.pdb
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.pdb
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.csprojAssemblyReference.cache
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.AssemblyInfo.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.csproj.CopyComplete
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.dll
+C:\Users\Prathap\source\repos\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.pdb
+D:\InventoryManagementSystem\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.deps.json
+D:\InventoryManagementSystem\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.dll
+D:\InventoryManagementSystem\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.pdb
+D:\InventoryManagementSystem\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Data.dll
+D:\InventoryManagementSystem\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.dll
+D:\InventoryManagementSystem\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Data.pdb
+D:\InventoryManagementSystem\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.pdb
+D:\InventoryManagementSystem\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.csprojAssemblyReference.cache
+D:\InventoryManagementSystem\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.csproj.CoreCompileInputs.cache
+D:\InventoryManagementSystem\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.AssemblyInfoInputs.cache
+D:\InventoryManagementSystem\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.AssemblyInfo.cs
+D:\InventoryManagementSystem\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.csproj.CopyComplete
+D:\InventoryManagementSystem\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.dll
+D:\InventoryManagementSystem\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.deps.json
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.dll
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Data.dll
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.dll
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Data.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.csprojAssemblyReference.cache
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.AssemblyInfoInputs.cache
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.AssemblyInfo.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.csproj.CoreCompileInputs.cache
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.csproj.CopyComplete
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.dll
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.pdb
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.deps.json
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.dll
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.pdb
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Data.dll
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.dll
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Data.pdb
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.pdb
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.csprojAssemblyReference.cache
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.AssemblyInfo.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.csproj.CopyComplete
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.dll
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Repository\obj\Debug\netcoreapp2.1\InventoryManagement.Repository.pdb

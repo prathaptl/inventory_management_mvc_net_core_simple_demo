@@ -1,0 +1,182 @@
+﻿@{
+    ViewBag.Path = new List<string>() { "Users - Add / Edit" };
+}
+@model UserViewModel
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.ErrorMessage
+    </div>
+}
+@section Head{
+    <link href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css" rel="stylesheet">
+}
+
+<div class="" id="app">
+    <div class="form-row">
+        <div class="col-md-6">
+            <div class="position-relative form-group">
+                <label class="">Name</label>
+                <input placeholder="name" type="text" class="form-control" v-model="model.Name">
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="position-relative form-group">
+                <label class="">User Name</label>
+                <input placeholder="user name" type="text" class="form-control" v-model="model.UserName">
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="col-md-6">
+            <div class="position-relative form-check">
+                <input type="checkbox" class="form-check-input" v-model="model.Active">
+                <label class="form-check-label">Active</label>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="form-row">
+        <div class="col-md-6">
+            <div class="position-relative form-group">
+                <label class="">Role</label>
+                <v-select :options="roles" label="Name" v-model="model.Role"></v-select>
+            </div>
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="col-md-6">
+            <div class="position-relative form-group">
+                <label class="">Phone No</label>
+                <input placeholder="phone number" type="text" class="form-control" v-model="model.PhoneNo">
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="position-relative form-group">
+                <label class="">Email</label>
+                <input placeholder="email address" type="text" class="form-control" v-model="model.Email">
+            </div>
+        </div>
+    </div>
+    <div class="position-relative form-check">
+        <input type="checkbox" class="form-check-input" v-model="model.SetPassword">
+        <label class="form-check-label">Set Password</label>
+    </div>
+    <br>
+    <div class="form-row">
+        <div class="col-md-6">
+            <div class="position-relative form-group">
+                <label class="">Password</label>
+                <input placeholder="" type="password" class="form-control" v-model="model.CurrentPassword">
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="position-relative form-group">
+                <label class="">Confirm Password</label>
+                <input placeholder="" type="password" class="form-control" v-model="model.ConfirmPassword">
+            </div>
+        </div>
+    </div>
+    <div align="right">
+        <a href="/User/Index" class="mt-2 btn btn-danger">Cancel</a>
+        <button class="mt-2 btn btn-primary" v-on:click="save()">Save</button>
+    </div>
+</div>
+@section Scripts{
+    <script src="https://unpkg.com/vue@2"></script>
+    <script src="https://unpkg.com/vue-select@2"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+    <script>
+
+        Vue.component('v-select', VueSelect.VueSelect);
+
+        var app = new Vue({
+            el: '#app',
+            components: {
+
+            },
+            data: {
+                model: @Html.Raw(Json.Serialize(Model)),
+                isSubmited: false,
+                error: false,
+                errorMessage: "",
+                roles: []
+            },
+            created() {
+            },
+            mounted() {
+                axios
+                    .get(`${window.location.origin}/User/GetUserRoles`)
+                    .then(response => {
+                        this.roles = response.data;
+
+                    });
+            },
+            methods: {
+
+                test() {
+
+                },
+                save() {
+                    debugger;
+
+                    var jsonData = JSON.stringify(this.model);
+                    var url = '/User/Edit';
+                    axios({
+                        method: 'post',
+                        dataType: 'json',
+                        url: url,
+                        async: false,
+                        data: "data=" + btoa(unescape(encodeURIComponent(jsonData))),
+                    }).then(response => {
+                        var res = response.data;
+                        if (res.success) {
+
+                            Swal.fire({
+                                icon: 'success',
+                                title: 'Your work has been saved',
+                                showConfirmButton: true,
+                                
+                            }).then((result) => {
+                                if (result.isConfirmed) {
+                                    window.location.href = "/User/Index";
+                                }
+                            });
+                        }
+                        else {
+
+                            Swal.fire({
+                                icon: 'error',
+                                title: 'Error',
+                                //text: res.error,
+                                html: '<pre>' + res.error + '</pre>',
+                                customClass: {
+                                    popup: 'format-pre'
+                                }
+                            });
+
+                        }
+                    }).catch(e => {
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Something went wrong (e)',
+                            text: "",
+                        });
+                    });
+                },
+            },
+
+            computed: {
+                test() {
+                    return 0;
+                }
+            },
+            watch: {
+            }
+        });
+    </script>
+}

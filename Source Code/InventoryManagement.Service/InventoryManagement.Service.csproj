@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SendGrid" Version="9.24.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InventoryManagement.Domain\InventoryManagement.Domain.csproj" />
+    <ProjectReference Include="..\InventoryManagement.Repository\InventoryManagement.Repository.csproj" />
+    <ProjectReference Include="..\InventoryManagement.Utility\InventoryManagement.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

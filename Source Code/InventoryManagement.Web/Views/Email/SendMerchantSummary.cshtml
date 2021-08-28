@@ -1,0 +1,115 @@
+﻿@{
+    ViewBag.Path = new List<string>() { "Inventory Summary Email  - Send" };
+}
+@model MerchantSummaryViewModel
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.ErrorMessage
+    </div>
+}
+@section Head{
+    <link href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css" rel="stylesheet">
+}
+
+<div class="" id="app">
+    <div class="form-row">
+        <div class="col-md-12">
+            <div class="position-relative form-group">
+                <label class="">Emails</label>
+                <textarea  class="form-control" v-model="model.Emails" rows="10"></textarea>
+            </div>
+        </div>
+    </div>
+    <div align="right">
+        <a href="/Home/Index" class="mt-2 btn btn-danger">Cancel</a>
+        <button class="mt-2 btn btn-primary" v-on:click="save()">Send</button>
+    </div>
+</div>
+@section Scripts{
+    <script src="https://unpkg.com/vue@2"></script>
+    <script src="https://unpkg.com/vue-select@2"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+    <script>
+
+        var app = new Vue({
+            el: '#app',
+            components: {
+
+            },
+            data: {
+                model: @Html.Raw(Json.Serialize(Model)),
+                isSubmited: false,
+                error: false,
+                errorMessage: ""
+            },
+            created() {
+            },
+            mounted() {
+            },
+            methods: {
+
+                test() {
+
+                },
+                save() {
+                    debugger;
+
+                    var jsonData = JSON.stringify(this.model);
+                    var url = '/Email/SendMerchantSummary';
+                    axios({
+                        method: 'post',
+                        dataType: 'json',
+                        url: url,
+                        async: false,
+                        data: "data=" + btoa(unescape(encodeURIComponent(jsonData))),
+                    }).then(response => {
+                        var res = response.data;
+                        if (res.success) {
+
+                            Swal.fire({
+                                icon: 'success',
+                                title: 'Emails have been queued',
+                                showConfirmButton: true,
+
+                            }).then((result) => {
+                                if (result.isConfirmed) {
+                                    window.location.href = "/Email/SendMerchantSummary";
+                                }
+                            });
+                        }
+                        else {
+
+                            Swal.fire({
+                                icon: 'error',
+                                title: 'Error',
+                                //text: res.error,
+                                html: '<pre>' + res.error + '</pre>',
+                                customClass: {
+                                    popup: 'format-pre'
+                                }
+                            });
+
+                        }
+                    }).catch(e => {
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Something went wrong (e)',
+                            text: "",
+                        });
+                    });
+                },
+            },
+
+            computed: {
+
+            },
+            watch: {
+
+            }
+        });
+    </script>
+}

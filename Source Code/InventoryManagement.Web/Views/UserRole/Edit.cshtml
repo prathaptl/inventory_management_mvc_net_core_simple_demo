@@ -1,0 +1,161 @@
+﻿@{
+    ViewBag.Path = new List<string>() { "Users Role - Add / Edit" };
+}
+@model UserRoleViewModel
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.ErrorMessage
+    </div>
+}
+@section Head{
+    <link href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css" rel="stylesheet">
+}
+
+<div class="" id="app">
+    <div class="form-row">
+        <div class="col-md-6">
+            <div class="position-relative form-group">
+                <label class="">Name</label>
+                <input placeholder="name" type="text" class="form-control" v-model="model.Name">
+            </div>
+            <div class="position-relative form-check">
+                <input type="checkbox" class="form-check-input" v-model="model.IsSuperUser">
+                <label class="form-check-label">Super User</label>
+            </div>
+        </div>
+    </div>
+    <br>
+    <h5 class="">Privileges</h5>
+    <br>
+    <privilege-group-view v-for="(group,index) in model.PrivilegeGroups" :key="group.Name" :group="group" :index="index">
+    </privilege-group-view>
+    <div align="right">
+        <a href="/UserRole/Index" class="mt-2 btn btn-danger">Cancel</a>
+        <button class="mt-2 btn btn-primary" v-on:click="save()">Save</button>
+    </div>
+</div>
+@section Scripts{
+    <script src="https://unpkg.com/vue@2"></script>
+    <script src="https://unpkg.com/vue-select@2"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+    <script>
+
+        Vue.component('v-select', VueSelect.VueSelect);
+
+        Vue.component('privilege-group-view', {
+            template: `<div style="margin-bottom:40px">
+                            <h6 class="">{{group.Name}}</h6>
+                            <div class="divider"></div>
+                            <form class="">
+                                <privilege-view v-for="(privilege,index) in group.RolePrivileges" :key="privilege.Name" :privilege="privilege" :index="index">
+    </privilege-view>
+
+                            </form>
+                        </div>`,
+
+            props: ['group', 'index'],
+        });
+
+        Vue.component('privilege-view', {
+            template: `
+                                <div class="position-relative form-check form-check-inline"><label class="form-check-label"><input type="checkbox" v-model="privilege.Value" class="form-check-input"> {{privilege.DisplayName}}</label></div>
+                        `,
+
+            props: ['privilege', 'index'],
+        });
+
+        var app = new Vue({
+            el: '#app',
+            components: {
+
+            },
+            data: {
+                model: @Html.Raw(Json.Serialize(Model)),
+                isSubmited: false,
+                error: false,
+                errorMessage: "",
+                privileges: []
+            },
+            created() {
+            },
+            mounted() {
+            },
+            methods: {
+
+                save() {
+                    debugger;
+
+                    var jsonData = JSON.stringify(this.model);
+                    var url = '/UserRole/Edit';
+                    axios({
+                        method: 'post',
+                        dataType: 'json',
+                        url: url,
+                        async: false,
+                        data: "data=" + btoa(unescape(encodeURIComponent(jsonData))),
+                    }).then(response => {
+                        var res = response.data;
+                        if (res.success) {
+
+                            Swal.fire({
+                                icon: 'success',
+                                title: 'Your work has been saved',
+                                showConfirmButton: true,
+
+                            }).then((result) => {
+                                if (result.isConfirmed) {
+                                    window.location.href = "/UserRole/Index";
+                                }
+                            });
+
+                        }
+                        else {
+
+                            Swal.fire({
+                                icon: 'error',
+                                title: 'Error',
+                                //text: res.error,
+                                html: '<pre>' + res.error + '</pre>',
+                                customClass: {
+                                    popup: 'format-pre'
+                                }
+                            });
+
+                        }
+                    }).catch(e => {
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Something went wrong (e)',
+                            text: "",
+                        });
+                    });
+                },
+            },
+
+            computed: {
+            },
+            watch: {
+                //'Invoice.OtherPartyId'(value) {
+                //    if (value == '' || value == null) return;
+
+                //    if (this.Invoice.Id > 0) return;
+
+                //    axios.get('/Invoice/GetPendingOrderLines?id=' + value + '&typeId=' + this.Invoice.Type.Id)
+                //        .then(response => {
+                //            debugger;
+                //            var data = response.data
+                //            this.linkedPos = data;
+                //        })
+                //        .catch(e => {
+                //            debugger;
+                //            alert(e);
+                //        });
+                //}
+            }
+        });
+    </script>
+}

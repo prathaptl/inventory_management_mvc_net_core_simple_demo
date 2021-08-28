@@ -1,0 +1,153 @@
+﻿@{
+    ViewBag.Path = new List<string>() { "Inventory - Update Stock" };
+}
+@model ProductViewModel
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.ErrorMessage
+    </div>
+}
+@section Head{
+    <link href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css" rel="stylesheet">
+}
+
+<div class="" id="app">
+    <div class="form-row">
+        <div class="col-md-6">
+            <div class="position-relative form-group">
+                <label class="">Product</label>
+                <v-select :options="products" label="Name" v-model="selectedProduct" v-on:change="GetProductDetails()"></v-select>
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="col-md-6">
+            <div class="position-relative form-group">
+                <label class="">Code</label>
+                <input placeholder="" type="text" class="form-control" v-model="model.Code" readonly>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="position-relative form-group">
+                <label class="">Name</label>
+                <input placeholder="" type="text" class="form-control" v-model="model.Name" readonly>
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="col-md-6">
+            <div class="position-relative form-group">
+                <label class="">Price</label>
+                <input placeholder="" type="text" class="form-control" v-model="model.Price" readonly>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="position-relative form-group">
+                <label class="">Current Qty</label>
+                <input placeholder="" type="number" class="form-control" v-model="model.CurrentQty">
+            </div>
+        </div>
+    </div>
+    <br>
+    <div align="right">
+        <a href="/Product/Index" class="mt-2 btn btn-danger">Cancel</a>
+        <button class="mt-2 btn btn-primary" v-on:click="save()">Update</button>
+    </div>
+</div>
+@section Scripts{
+    <script src="https://unpkg.com/vue@2"></script>
+    <script src="https://unpkg.com/vue-select@2"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+    <script>
+
+        Vue.component('v-select', VueSelect.VueSelect);
+
+        var app = new Vue({
+            el: '#app',
+            components: {
+
+            },
+            data: {
+                model: @Html.Raw(Json.Serialize(Model)),
+                isSubmited: false,
+                error: false,
+                errorMessage: "",
+                products: [],
+                selectedProduct: null
+            },
+            created() {
+            },
+            mounted() {
+                axios
+                    .get(`${window.location.origin}/Inventory/GetProducts`)
+                    .then(response => {
+                        this.products = response.data;
+
+                    });
+            },
+            methods: {
+
+                save() {
+                    debugger;
+
+                    var jsonData = JSON.stringify(this.model);
+                    var url = '/Product/Edit';
+                    axios({
+                        method: 'post',
+                        dataType: 'json',
+                        url: url,
+                        async: false,
+                        data: "data=" + btoa(unescape(encodeURIComponent(jsonData))),
+                    }).then(response => {
+                        var res = response.data;
+                        if (res.success) {
+
+                            Swal.fire({
+                                icon: 'success',
+                                title: 'Sotock Updated Successfully',
+                                showConfirmButton: true,
+                            });
+
+                            this.model = {};
+                            this.selectedProduct = {};
+
+                        }
+                        else {
+
+                            Swal.fire({
+                                icon: 'error',
+                                title: 'Error',
+                                text: res.error,
+                            });
+
+                        }
+                    }).catch(e => {
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Something went wrong (e)',
+                            text: "",
+                        });
+                    });
+                },
+
+                GetProductDetails() {
+                    axios
+                        .get(`${window.location.origin}/Inventory/GetProductById?Id=${this.selectedProduct.Id}`)
+                        .then(response => {
+                            this.model = response.data;
+                        });
+                }
+            },
+
+            computed: {
+
+            },
+            watch: {
+            }
+        });
+    </script>
+}

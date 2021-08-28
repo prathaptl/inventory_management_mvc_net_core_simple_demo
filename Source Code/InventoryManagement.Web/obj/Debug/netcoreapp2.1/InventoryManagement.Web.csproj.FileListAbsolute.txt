@@ -1,0 +1,222 @@
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.deps.json
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.runtimeconfig.json
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.runtimeconfig.dev.json
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.dll
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.pdb
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.Views.dll
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.Views.pdb
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorAssemblyInfo.cache
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorAssemblyInfo.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.AssemblyInfoInputs.cache
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.AssemblyInfo.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.TagHelpers.input.cache
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.TagHelpers.output.cache
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorCoreGenerate.cache
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.Views.pdb
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.dll
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.pdb
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.csproj.CopyComplete
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.csprojAssemblyReference.cache
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Sidebar.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Data.dll
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.dll
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Reporting.dll
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.dll
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Service.dll
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Utility.dll
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Data.pdb
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.pdb
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Reporting.pdb
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.pdb
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Service.pdb
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Utility.pdb
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Inventory\Index.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Edit.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Index.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\AuthenticationError.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Product\Edit.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Error\Index.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Inventory\UpdateStock.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Email\SendMerchantSummary.g.cshtml.cs
+C:\Users\Prathap\source\repos\InventoryManagement.Web\bin\Debug\netcoreapp2.1\NLog.config
+C:\Users\Prathap\source\repos\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.csproj.CoreCompileInputs.cache
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.csprojAssemblyReference.cache
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.csproj.CoreCompileInputs.cache
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorAssemblyInfo.cache
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorAssemblyInfo.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.AssemblyInfoInputs.cache
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.AssemblyInfo.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.dll
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.pdb
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\NLog.config
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\appsettings.json
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.deps.json
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.runtimeconfig.json
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.runtimeconfig.dev.json
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.dll
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.pdb
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.Views.dll
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.Views.pdb
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Data.dll
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.dll
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Reporting.dll
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.dll
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Service.dll
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Utility.dll
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Data.pdb
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.pdb
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Reporting.pdb
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.pdb
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Service.pdb
+D:\InventoryManagementSystem\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Utility.pdb
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.TagHelpers.input.cache
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.TagHelpers.output.cache
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorCoreGenerate.cache
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Email\SendMerchantSummary.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Error\Index.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\AuthenticationError.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Inventory\Index.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Inventory\UpdateStock.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Sidebar.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Edit.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Index.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorTargetAssemblyInfo.cache
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorTargetAssemblyInfo.cs
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.Views.pdb
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.csproj.CopyComplete
+D:\InventoryManagementSystem\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.genruntimeconfig.cache
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\appsettings.json
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\NLog.config
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.deps.json
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.runtimeconfig.json
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.runtimeconfig.dev.json
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.dll
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.Views.dll
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.Views.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Data.dll
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.dll
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Reporting.dll
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.dll
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Service.dll
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Utility.dll
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Data.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Reporting.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Service.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Utility.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.csprojAssemblyReference.cache
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.AssemblyInfoInputs.cache
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.AssemblyInfo.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.csproj.CoreCompileInputs.cache
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorAssemblyInfo.cache
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorAssemblyInfo.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.TagHelpers.input.cache
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.TagHelpers.output.cache
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorCoreGenerate.cache
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Email\SendMerchantSummary.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Error\Index.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\AuthenticationError.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Inventory\Index.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Inventory\UpdateStock.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Sidebar.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Edit.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Index.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorTargetAssemblyInfo.cache
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorTargetAssemblyInfo.cs
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.Views.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.csproj.CopyComplete
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.dll
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.pdb
+D:\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.genruntimeconfig.cache
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\NLog.config
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.deps.json
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.runtimeconfig.json
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.runtimeconfig.dev.json
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.dll
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.pdb
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.Views.dll
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Web.Views.pdb
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Data.dll
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.dll
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Reporting.dll
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.dll
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Service.dll
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Utility.dll
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Data.pdb
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Domain.pdb
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Reporting.pdb
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Repository.pdb
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Service.pdb
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\bin\Debug\netcoreapp2.1\InventoryManagement.Utility.pdb
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.csprojAssemblyReference.cache
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.csproj.CoreCompileInputs.cache
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorAssemblyInfo.cache
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorAssemblyInfo.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.AssemblyInfoInputs.cache
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.AssemblyInfo.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.TagHelpers.input.cache
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.TagHelpers.output.cache
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorCoreGenerate.cache
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Email\SendMerchantSummary.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Error\Index.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\AuthenticationError.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Inventory\Index.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Inventory\UpdateStock.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Product\Edit.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Sidebar.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Edit.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\UserRole\Index.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.Views.pdb
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.csproj.CopyComplete
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.dll
+C:\Users\Prathap\Downloads\InventoryManagementSystem\InventoryManagementSystem\Source Code\InventoryManagement.Web\obj\Debug\netcoreapp2.1\InventoryManagement.Web.pdb
